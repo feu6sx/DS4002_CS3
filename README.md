@@ -10,5 +10,6 @@ The case study details are provided in the file titled Hook.pdf, while the assig
 ### Materials 
 #### Web References:
 MNIST_Intro: https://medium.com/@azimkhan8018/a-beginners-guide-to-deep-learning-with-mnist-dataset-0894f7183344
+
 MNIST_story: https://newsletter.altdeep.ai/p/the-story-of-mnist-and-the-perils
 #### Data Acquisition: 
