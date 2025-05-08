@@ -13,3 +13,4 @@ MNIST_Intro: https://medium.com/@azimkhan8018/a-beginners-guide-to-deep-learning
 
 MNIST_story: https://newsletter.altdeep.ai/p/the-story-of-mnist-and-the-perils
 #### Data Acquisition: 
+Getting_Started.ipynb: This starter notebook will guide you through the process of data acquisition of the dataset from Keras, followed by preprocessing for simple machine learning models. 
